@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMTest</string>
+    <string name="action_reset">Reset</string>
+    <string name="winner">Winner</string>
+</resources>
